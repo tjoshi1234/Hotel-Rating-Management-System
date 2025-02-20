@@ -4,9 +4,9 @@ Developed a scalable and resilient microservices-based Hotel Review Platform.
 ## User Service: 
 Designed and implemented a robust user service to manage user profiles, authentication, and authorization. Utilized Eureka for service discovery and Feign Client for inter-service communication. Integrated with MySQL database for persistent storage of user information.
 ## Rating Service: 
-Developed a rating service to capture and store user ratings for specific hotels. Leveraged MongoDB for flexible data storage and efficient querying of rating data.
+Developed a rating service to capture and store user ratings for specific hotels. Leveraged MySQL database for flexible data storage and efficient querying of rating data.
 ## Hotel Service: 
-Built a hotel service to manage hotel information, including details, amenities, and location. Employed PostgreSQL database for structured data storage and efficient querying of hotel information.
+Built a hotel service to manage hotel information, including details, amenities, and location. Employed MySQL database for structured data storage and efficient querying of hotel information.
 ## API Gateway: 
 Implemented an API Gateway to route incoming requests to appropriate microservices, ensuring efficient routing and load balancing.
 ## Configuration Management: 
