@@ -14,7 +14,7 @@ Utilized Spring Cloud Config to manage centralized configuration, enabling easy 
 ## Authentication and Authorization: 
 Implemented robust JWT-based authentication and authorization mechanisms to safeguard sensitive user and hotel data.
 ## Tech Stack: 
-Spring Boot, Spring Cloud, Eureka Server, Spring Security, JWT Authentication and Authorization, MySQL, PostgreSQL, MongoDB, Spring Cloud Config, Git, Feign Client, REST API, Spring Cloud Gateway
+Spring Boot, Spring Cloud, Eureka Server, Spring Security, JWT Authentication and Authorization, MySQL, Spring Cloud Config, Git, Feign Client, REST API, Spring Cloud Gateway
 
 ## How to RUN code
 
