@@ -47,4 +47,4 @@ Spring Boot, Spring Cloud, Eureka Server, Spring Security, JWT Authentication an
 
 ## Author
 
-- [@Sarthak1907](https://github.com/Sarthak1907)
+- [@tjoshi1234](https://github.com/tjoshi1234)
